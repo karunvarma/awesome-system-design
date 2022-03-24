@@ -2,7 +2,7 @@
 its a aggregate over for the system design resource over youtube
 
 
-**Messaging**
+**Messaging** (slack/discord/whatsapp/telegram/teams)
 
 How Slack Works
 https://youtu.be/WE9c9AZe-DY
