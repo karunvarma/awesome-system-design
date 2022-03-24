@@ -22,3 +22,6 @@ https://youtu.be/MkYSiNTE-0U
 Scaling Slack
 https://youtu.be/x1Uz3rMlOBo
 
+Scaling Slack • Keith Adams • GOTO 2018
+https://youtu.be/o4f5G9q_9O4
+
