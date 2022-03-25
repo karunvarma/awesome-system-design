@@ -13,8 +13,6 @@ https://youtu.be/_M-oHxknfnI
 Scaling Infrastructure Engineering at Slack
 https://youtu.be/yHBwoZh1Mxg
 
-Architecture of Slack by Anurag Sharma
-https://youtu.be/2uN3aDqNljU
 
 Slack: Real-Time Communication with HAProxy and Route53 on AWS
 https://youtu.be/MkYSiNTE-0U
