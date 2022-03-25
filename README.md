@@ -31,3 +31,12 @@ Streaming a Million Likes/Second: Real-Time Interactions on Live Video
 https://youtu.be/yqc3PPmHvrA
 
 
+Notification
+
+Scaling Push Messaging for Millions of Devices @Netflix
+https://youtu.be/6w6E_B55p0E
+
+System Design Interview - Notification Service
+https://youtu.be/bBTPZ9NdSk8
+
+
