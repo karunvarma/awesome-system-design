@@ -24,6 +24,9 @@ Scaling Slack • Keith Adams • GOTO 2018
 https://youtu.be/o4f5G9q_9O4
 
 
+
+**Arbitary**
+
 Streaming a Million Likes/Second: Real-Time Interactions on Live Video
 https://youtu.be/yqc3PPmHvrA
 
