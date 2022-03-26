@@ -41,8 +41,11 @@ https://youtu.be/bBTPZ9NdSk8
 
 Scaling Dropbox
 https://www.infoq.com/presentations/dropbox-infrastructure/
+
 https://dropbox.tech/infrastructure/reintroducing-edgestore
+
 https://aws.amazon.com/solutions/case-studies/dropbox-dynamodb-case-study/
+
 https://dropbox.tech/infrastructure/streaming-file-synchronization
 
 How We've Scaled Dropbox
