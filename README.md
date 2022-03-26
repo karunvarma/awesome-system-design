@@ -56,5 +56,8 @@ https://youtu.be/eTad5SAk3vQ
 How We've Scaled Dropbox
 https://youtu.be/PE4gwstWhmc
 
+Dropbox Database Infrastructure
+https://youtu.be/71VryWiEw2A
+
 
 
