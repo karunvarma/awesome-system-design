@@ -39,4 +39,13 @@ https://youtu.be/6w6E_B55p0E
 System Design Interview - Notification Service
 https://youtu.be/bBTPZ9NdSk8
 
+Scaling Dropbox
+https://www.infoq.com/presentations/dropbox-infrastructure/
+
+https://dropbox.tech/infrastructure/streaming-file-synchronization
+
+How We've Scaled Dropbox
+https://youtu.be/PE4gwstWhmc
+
+
 
