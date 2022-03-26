@@ -31,7 +31,7 @@ Streaming a Million Likes/Second: Real-Time Interactions on Live Video
 https://youtu.be/yqc3PPmHvrA
 
 
-Notification
+**Notification**
 
 Scaling Push Messaging for Millions of Devices @Netflix
 https://youtu.be/6w6E_B55p0E
