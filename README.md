@@ -50,6 +50,9 @@ https://aws.amazon.com/solutions/case-studies/dropbox-dynamodb-case-study/
 
 https://dropbox.tech/infrastructure/streaming-file-synchronization
 
+EdgeStore(dropbox):
+https://youtu.be/eTad5SAk3vQ
+
 How We've Scaled Dropbox
 https://youtu.be/PE4gwstWhmc
 
