@@ -31,7 +31,7 @@ Streaming a Million Likes/Second: Real-Time Interactions on Live Video
 https://youtu.be/yqc3PPmHvrA
 
 
-**Notification**
+**Netflix**
 
 Scaling Push Messaging for Millions of Devices @Netflix
 https://youtu.be/6w6E_B55p0E
@@ -89,6 +89,21 @@ https://youtu.be/2GInt9E3vrU
 
 
 **Twitter**
+
 Timelines at Scale
 https://www.infoq.com/presentations/Twitter-Timeline-Scalability/
+
+Real-Time & Personalized Notifications @Twitter
+https://youtu.be/J5auCY4ajK8
+
+Using Redis at Scale at Twitter - by Rashmi Ramesh of Twitter - RedisConf17 -
+https://youtu.be/QznaOSk20nUˇ
+
+Real-Time Delivery Architecture at Twitter
+https://youtu.be/J5auCY4ajK8
+
+
+
+
+
 
