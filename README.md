@@ -1,5 +1,5 @@
 # awesome-system-design
-its a aggregate over for the system design resource over youtube
+its a aggregate over for the system design Tech talks/articels resources
 
 
 **Messaging** (slack/discord/whatsapp/telegram/teams)
@@ -58,6 +58,35 @@ https://youtu.be/PE4gwstWhmc
 
 Dropbox Database Infrastructure
 https://youtu.be/71VryWiEw2A
+
+
+**Instagram**
+
+Messaging at Scale at Instagram
+https://youtu.be/E708csv4XgY
+
+Scaling Instagram Infrastructure
+https://youtu.be/hnpzNAPiC0E
+
+SREcon19 Asia/Pacific - Cross Continent Infrastructure Scaling at Instagram
+https://youtu.be/IFPHQo-o6Vo
+
+Scaling the Data Infrastructure at Instagram
+https://youtu.be/1sPgogJlKWM
+
+Scaling Notifications | How Instagram manages notifications at scale? | System Design
+https://youtu.be/kIP8L-CSl2Y
+
+Cassandra at Instagram 2016 (Dikang Gu, Facebook) | Cassandra Summit 2016
+https://youtu.be/_BfMH4GQWnk
+
+Scaling at Large - Lessons learned rewriting Instagram’s feed - iOS Conf SG 2016
+https://youtu.be/ft72S-rrQQA
+
+LISA18 - Cross Atlantic: Scaling Instagram Infrastructure from US to Europe
+https://youtu.be/2GInt9E3vrU
+
+
 
 
 
