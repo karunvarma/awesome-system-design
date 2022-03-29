@@ -67,6 +67,7 @@ https://youtu.be/E708csv4XgY
 
 Scaling Instagram Infrastructure
 https://youtu.be/hnpzNAPiC0E
+https://www.infoq.com/presentations/instagram-scale-infrastructure/
 
 SREcon19 Asia/Pacific - Cross Continent Infrastructure Scaling at Instagram
 https://youtu.be/IFPHQo-o6Vo
