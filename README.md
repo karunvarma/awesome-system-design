@@ -88,6 +88,7 @@ LISA18 - Cross Atlantic: Scaling Instagram Infrastructure from US to Europe
 https://youtu.be/2GInt9E3vrU
 
 
-
-
+Twitter
+Timelines at Scale
+https://www.infoq.com/presentations/Twitter-Timeline-Scalability/
 
