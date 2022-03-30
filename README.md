@@ -102,11 +102,20 @@ https://youtu.be/QznaOSk20nUˇ
 Real-Time Delivery Architecture at Twitter
 https://youtu.be/J5auCY4ajK8
 
+LISA '10 - Operations at Twitter: Scaling Beyond 100 Million Users
+https://youtu.be/z8LU0Cj6BOU
+
+Keynote: Twitter's search architecture
+https://youtu.be/AguWva8P_DI
+
+Scaling Redis at Twitter
+https://youtu.be/rP9EKvWt0zo
 
 **Reddit**
 
 The Evolution of Reddit.com's Architecture
 https://youtu.be/nUcO7n4hek4
+
 
 
 
