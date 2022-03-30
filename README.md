@@ -103,6 +103,10 @@ Real-Time Delivery Architecture at Twitter
 https://youtu.be/J5auCY4ajK8
 
 
+**Reddit**
+
+The Evolution of Reddit.com's Architecture
+https://youtu.be/nUcO7n4hek4
 
 
 
