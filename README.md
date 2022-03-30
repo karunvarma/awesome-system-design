@@ -111,6 +111,9 @@ https://youtu.be/AguWva8P_DI
 Scaling Redis at Twitter
 https://youtu.be/rP9EKvWt0zo
 
+Using Redis at Scale at Twitter - by Rashmi Ramesh of Twitter - RedisConf17 -
+https://youtu.be/QznaOSk20nU
+
 **Reddit**
 
 The Evolution of Reddit.com's Architecture
