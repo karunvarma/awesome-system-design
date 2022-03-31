@@ -125,6 +125,8 @@ https://azure.microsoft.com/en-us/blog/sosp-paper-windows-azure-storage-a-highly
 
 https://www.allthingsdistributed.com/2021/04/s3-strong-consistency.html
 
+11 Windows Azure Storage: A Highly Available Cloud Storage Service with Strong Consistency
+https://youtu.be/QnYdbQO0yj4
 
 
 
