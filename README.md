@@ -120,6 +120,12 @@ The Evolution of Reddit.com's Architecture
 https://youtu.be/nUcO7n4hek4
 
 
+**S3/Azure Blob storage**
+https://azure.microsoft.com/en-us/blog/sosp-paper-windows-azure-storage-a-highly-available-cloud-storage-service-with-strong-consistency/
+
+https://www.allthingsdistributed.com/2021/04/s3-strong-consistency.html
+
+
 
 
 
